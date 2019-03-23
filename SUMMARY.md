@@ -1,6 +1,6 @@
 # Table of contents
 
-* [主页](README.md)
+* [CodeExpander](README.md)
 * [功能](features.md)
 * [价格](price.md)
 
