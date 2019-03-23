@@ -1,55 +1,32 @@
----
-description: >-
-  Oncework 一款结合 Github-Gist 与 Text Expander 类软件的效率类软件，实现以 gist
-  为存储中心的类TextExpander 的软件.
-  简言之，是一款适用于Mac/Win的快速输入的工具。它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词。
----
+# CodeExpander
 
-# Oncework 介绍
+`CodeExpander`是一个智能并具有像 TextExpander 特性的 GitHub Gist 客户端。它保存和管理需要重复输入的文本或脚本段，并可通过设置缩写自动扩展。
 
-### 使用介绍
+![](.gitbook/assets/map-main.png)
 
-设定值替换
+## **下载**
 
-![&#x8BBE;&#x5B9A;&#x503C;&#x66FF;&#x6362;](.gitbook/assets/snippet-example.gif)
+MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 7/8/10
 
-  
-搜索式替换 -- 类Alfred式使用习惯.
+[https://github.com/oncework/codeexpander/releases](https://github.com/oncework/codeexpander/releases)
 
-![](.gitbook/assets/window-alfred.gif)
+## 常见用例
 
+#### 回复邮件
 
+![](.gitbook/assets/fill-in%20%281%29.gif)
 
-## 下载地址
+####  自定义代码模板
 
-Oncework for Mac/Win:
+![](.gitbook/assets/custom-snippet.gif)
 
-> [https://github.com/oncework/oncework-deploy/releases](https://github.com/oncework/oncework-deploy/releases)
+#### 快捷搜索
 
-{% hint style="info" %}
-软件Gist管理功能免费，部分功能次数限额，但是重启软件可恢复体验功能。
-{% endhint %}
+![](.gitbook/assets/search-bar.gif)
 
-## 软件更新
+#### 创建和分享美丽的片段
 
-鉴于作者白天上班，只能晚上回来修BUG或者添加新的功能，但是在初期会每两周进行一次更新，多谢支持了.
-
-#### 功能更新
-
-* [ ] 当运行 bash / py 时， 应可进行异步 并允许进行通知栏通知
-* [x] 自定义软件快捷键设置
-* [x] 支持键盘命令执行
-* [ ] 创建Gist添加文件类型
-* [ ] 白噪音音乐背景
-* [ ] NPM库的引用
-* [ ] 动态生成UI组件
-* [x] 优化Cursor的算法
-* [x] 多语言功能
-
-#### 已知BUG
-
-* [x] 大小键盘监听不一致
-* [x] 全局软件时置顶
+![](.gitbook/assets/gene-pic.gif)
 
 
 
