@@ -12,21 +12,15 @@ MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 
 
 ## 常见用例
 
-#### 回复邮件
+|                快速创建               |        动态脚本        |
+| :----------------------------------------: | :-------------------------------------: |
+| ![](.gitbook/assets/gene-snippet.gif) | ![](.gitbook/assets/gene-md.gif) |
 
-![](.gitbook/assets/fill-in%20%281%29.gif)
+|                 回复邮件                 |           自定义Snippet           |
+| :----------------------------------------: | :-------------------------------------: |
+| ![](.gitbook/assets/fill-in%20%281%29.gif) | ![](.gitbook/assets/custom-snippet.gif) |
 
-####  自定义代码模板
-
-![](.gitbook/assets/custom-snippet.gif)
-
-#### 快捷搜索
-
-![](.gitbook/assets/search-bar.gif)
-
-#### 创建和分享美丽的片段
-
-![](.gitbook/assets/gene-pic.gif)
-
-
+|           搜索栏           | 分享主题片段图片 |
+| :---------------------------------: | :---------------------------------: |
+| ![](.gitbook/assets/search-bar.gif) |  ![](.gitbook/assets/gene-pic.gif)  |
 

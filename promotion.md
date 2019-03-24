@@ -1,15 +1,33 @@
----
-description: 以下是使用者经常提出的问题
----
+# CodeExpander
 
-# FAQ
+`CodeExpander`是一个智能并具有像 TextExpander 特性的 GitHub Gist 客户端。它保存和管理需要重复输入的文本或脚本段，并可通过设置缩写自动扩展。
 
-### Gist 是什么?
+访问官网：https://codeexpander.com/
 
-Gist是一种与其他人共享代码片段和粘贴的简单方法。当您需要与同事或朋友共享示例代码或技术时，可以使用它。
+![](https://github.com/oncework/codeexpander/raw/en/.gitbook/assets/map-main.png)
 
-![](../.gitbook/assets/gist-show.png)
+## **下载**
 
+MacOS 10.14/10.13/10.12/10.11 \(Mojave, High Sierra, Sierra...\) **Or** Windows 7/8/10
+
+[https://github.com/oncework/codeexpander/releases](https://github.com/oncework/codeexpander/releases)
+
+## 常见用例
+
+
+![快速创建](https://github.com/oncework/codeexpander/raw/en/.gitbook/assets/gene-snippet.gif)
+
+![动态脚本](https://github.com/oncework/codeexpander/raw/en/.gitbook/assets/gene-md.gif)
+
+![回复邮件](https://github.com/oncework/codeexpander/raw/en/.gitbook/assets/fill-in%20%281%29.gif)
+
+![自定义Snippet](https://github.com/oncework/codeexpander/raw/en/.gitbook/assets/custom-snippet.gif)
+
+![搜索栏](https://github.com/oncework/codeexpander/raw/en/.gitbook/assets/search-bar.gif)
+
+![分享主题片段图片](https://github.com/oncework/codeexpander/raw/en/.gitbook/assets/gene-pic.gif)
+
+更多功能请亲自体验...
 
 ### 为何开发该软件？
 
