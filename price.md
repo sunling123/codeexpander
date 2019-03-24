@@ -8,8 +8,9 @@
 
 购买渠道
 
+> 一次购买, 永久使用, 童叟无欺
 * [Paddle](https://pay.paddle.com/checkout/540339)
-* [爱发卡 For China](http://t.cn/EUl64FS)
+* [爱发卡 For China ( 38.8元 )](http://t.cn/EUl64FS)
 
 ## 更新状态
 
